@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@firebase/firestore": "^3.10.1",
     "dotenv": "^16.0.3",
     "firebase": "^9.20.0",
+    "firebase-admin": "^11.7.0",
     "vue": "^3.2.47"
   },
   "devDependencies": {
